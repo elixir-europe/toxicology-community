@@ -1,0 +1,15 @@
+# Run at http://query.wikidata.org
+#defaultView:Map
+SELECT ?partner ?partnerLabel (SAMPLE(?location) AS ?location) WHERE {
+  VALUES ?partner {
+    # by institute
+    wd:Q19845644 wd:Q1137652 wd:Q156598 wd:Q1500915 wd:Q460173 wd:Q59668 wd:Q219564
+    wd:Q1867222 wd:Q3152521 wd:Q1580126 wd:Q185246 wd:Q1640726 wd:Q30295302
+    wd:Q223429 wd:Q391083 wd:Q1065414 wd:Q20168706 wd:Q9401
+    # by location
+    wd:Q78 # Basel
+    wd:Q40297 # Ispra
+  }
+  OPTIONAL { ?partner wdt:P159?/wdt:P625 ?location }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+} GROUP BY ?partner ?partnerLabel
