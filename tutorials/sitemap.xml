@@ -4,8 +4,28 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
+<url> <!-- BridgeDbR: BridgeDbR Tutorial -->
   <loc>https://bioconductor.org/packages/release/bioc/vignettes/BridgeDbR/inst/doc/tutorial.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url> <!-- rWikiPathways: Overview -->
+  <loc>https://bioconductor.org/packages/release/bioc/vignettes/rWikiPathways/inst/doc/Overview.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url> <!-- rWikiPathways: rWikiPathways and BridgeDbR -->
+  <loc>https://bioconductor.org/packages/release/bioc/vignettes/rWikiPathways/inst/doc/rWikiPathways-and-BridgeDbR.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url> <!-- rWikiPathways: rWikiPathways and RCy3 -->
+  <loc>https://bioconductor.org/packages/release/bioc/vignettes/rWikiPathways/inst/doc/rWikiPathways-and-RCy3.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url> <!-- rWikiPathways: Pathway Analysis -->
+  <loc>https://bioconductor.org/packages/release/bioc/vignettes/rWikiPathways/inst/doc/Pathway-Analysis.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
