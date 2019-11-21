@@ -5,7 +5,7 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://bioconductor.org/packages/release/bioc/vignettes/BridgeDbR/inst/doc/tutorial.html/</loc>
+  <loc>https://bioconductor.org/packages/release/bioc/vignettes/BridgeDbR/inst/doc/tutorial.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
