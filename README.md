@@ -1,5 +1,6 @@
 # ELIXIR Toxicology Community
-Repository to organize the further development of the Community Proposal to ELIXIR.
+
+Repository to coordinate the work of the Toxicology Community. Read [our whitepaper](https://f1000research.com/articles/10-1129)!
 
 ## Overview of participants
 
