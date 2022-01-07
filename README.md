@@ -11,5 +11,5 @@ list and work here.
 
 ## Mailing list
 
-This ELIXIR Toxicology community is Open to participation. The mailing list can be found at https://bit.ly/2XJxt9S 
+This ELIXIR Toxicology community is Open to participation. The mailing list can be found at https://bit.ly/3qZkwTM
 
