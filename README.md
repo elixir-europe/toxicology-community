@@ -1,6 +1,6 @@
 # ELIXIR Toxicology Community
 
-Repository to coordinate the work of the Toxicology Community. Read [our whitepaper](https://f1000research.com/articles/10-1129)!
+Repository to coordinate the work of the Toxicology Community. Read [our whitepaper](https://f1000research.com/articles/10-1129) and visit the [Toxicology Community web page](https://elixir-europe.org/communities/toxicology)!
 
 ## Overview of participants
 
