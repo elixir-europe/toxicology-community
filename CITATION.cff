@@ -1,0 +1,138 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+type: software
+authors:
+  - family-names: Martens
+    given-names: Marvin
+  - family-names: Stierum
+    given-names: Rob
+  - family-names: Schymanski
+    given-names: Emma L.
+  - family-names: Evelo
+    given-names: Chris T.
+  - family-names: Aalizadeh
+    given-names: Reza
+  - family-names: Aladjov
+    given-names: Hristo
+  - family-names: Arturi
+    given-names: Kasia
+  - family-names: Audouze
+    given-names: Karine
+  - family-names: Babica
+    given-names: Pavel
+  - family-names: Berka
+    given-names: Karel
+  - family-names: Bessems
+    given-names: Jos
+  - family-names: Blaha
+    given-names: Ludek
+  - family-names: Bolton
+    given-names: Evan E.
+  - family-names: Cases
+    given-names: Montserrat
+  - family-names: Damalas
+    given-names: Dimitrios Ε.
+  - family-names: Dave
+    given-names: Kirtan
+  - family-names: Dilger
+    given-names: Marco
+  - family-names: Exner
+    given-names: Thomas
+  - family-names: Geerke
+    given-names: Daan P.
+  - family-names: Grafström
+    given-names: Roland
+  - family-names: Gray
+    given-names: Alasdair
+  - family-names: Hancock
+    given-names: John M.
+  - family-names: Hollert
+    given-names: Henner
+  - family-names: Jeliazkova
+    given-names: Nina
+  - family-names: Jennen
+    given-names: Danyel
+  - family-names: Jourdan
+    given-names: Fabien
+  - family-names: Kahlem
+    given-names: Pascal
+  - family-names: Klanova
+    given-names: Jana
+  - family-names: Kleinjans
+    given-names: Jos
+  - family-names: Kondic
+    given-names: Todor
+  - family-names: Kone
+    given-names: Boï
+  - family-names: Lynch
+    given-names: Iseult
+  - family-names: Maran
+    given-names: Uko
+  - family-names: Cuesta
+    given-names: Sergio Martinez
+  - family-names: Ménager
+    given-names: Hervé
+  - family-names: Neumann
+    given-names: Steffen
+  - family-names: Nymark
+    given-names: Penny
+  - family-names: Oberacher
+    given-names: Herbert
+  - family-names: Ramirez
+    given-names: Noelia
+  - family-names: Remy
+    given-names: Sylvie
+  - family-names: Rocca-Serra
+    given-names: Philippe
+  - family-names: Salek
+    given-names: Reza M.
+  - family-names: Sallach
+    given-names: Brett
+  - family-names: Sansone
+    given-names: Susanna-Assunta
+  - family-names: Sanz
+    given-names: Ferran
+  - family-names: Sarimveis
+    given-names: Haralambos
+  - family-names: Sarntivijai
+    given-names: Sirarat
+  - family-names: Schulze
+    given-names: Tobias
+  - family-names: Slobodnik
+    given-names: Jaroslav
+  - family-names: Spjuth
+    given-names: Ola
+  - family-names: Tedds
+    given-names: Jonathan
+  - family-names: Thomaidis
+    given-names: Nikolaos
+  - family-names: Weber
+    given-names: Ralf J.M.
+  - family-names: Westen
+    given-names: Gerard J.P.
+    name-particle: van
+  - family-names: Wheelock
+    given-names: Craig E.
+  - family-names: Williams
+    given-names: Antony J.
+  - family-names: Witters
+    given-names: Hilda
+  - family-names: Zdrazil
+    given-names: Barbara
+  - family-names: Županič
+    given-names: Anže
+  - family-names: Willighagen
+    given-names: Egon L.
+doi: 10.12688/F1000RESEARCH.74502.2
+identifiers:
+  - type: doi
+    value: 10.12688/F1000RESEARCH.74502.2
+  - type: other
+    value: urn:issn:2046-1402
+  - type: other
+    value: pmid:37842337
+keywords:
+  - ELIXIR Toxicology Community
+  - ELIXIR
+  - toxicology
+title: 'ELIXIR and Toxicology: a community in development'
